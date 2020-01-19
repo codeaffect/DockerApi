@@ -1,0 +1,14 @@
+/home/sandeep/git_source/DockerApi/bin/Debug/netcoreapp2.2/DockerApi.deps.json
+/home/sandeep/git_source/DockerApi/bin/Debug/netcoreapp2.2/DockerApi.runtimeconfig.json
+/home/sandeep/git_source/DockerApi/bin/Debug/netcoreapp2.2/DockerApi.runtimeconfig.dev.json
+/home/sandeep/git_source/DockerApi/bin/Debug/netcoreapp2.2/DockerApi.dll
+/home/sandeep/git_source/DockerApi/bin/Debug/netcoreapp2.2/DockerApi.pdb
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.csprojAssemblyReference.cache
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.csproj.CoreCompileInputs.cache
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.RazorAssemblyInfo.cache
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.RazorAssemblyInfo.cs
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.AssemblyInfoInputs.cache
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.AssemblyInfo.cs
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.RazorTargetAssemblyInfo.cache
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.dll
+/home/sandeep/git_source/DockerApi/obj/Debug/netcoreapp2.2/DockerApi.pdb
